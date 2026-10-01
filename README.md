@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @wilham-lynce
-- 👀 I’m interested in building softwares and analysing data.
 - 📫 mail: wilhamlynce27@gmail.com 
 
 <!---
